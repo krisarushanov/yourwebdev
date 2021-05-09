@@ -1,5 +1,28 @@
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }
+ 
+ .navbar {
+    padding-left: 15px;
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+    left: 0;
+ }
 
+ 
 
-body {
-    color: blueviolet;
-}
+ #darkhero {
+     background-image:
+     linear-gradient(
+      rgba(46, 96, 170, 0.685), 
+      rgba(27, 26, 100, 0.45)
+    ),
+     url(./images/desk.jpg);
+     background-size: cover;
+     opacity: .8;
+     height: 100vh;
+ }
