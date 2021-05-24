@@ -22,6 +22,7 @@ body,html {
  .card {
      width: 50vh;
      background-color:#5271FF ;
+     opacity: .75;
      
  }
 
@@ -31,15 +32,6 @@ body,html {
      font-weight: 700;
  }
 
- .card-flip {
-    position: relative;
-    width: 100%;
-    transform-style: preserve-3d;
-    height: auto;
-    transition: all 0.5s ease-out;
-    background: white;
-    border: none;
-  }
   
 
  .card-img-top {
