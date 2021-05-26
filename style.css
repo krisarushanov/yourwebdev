@@ -17,6 +17,13 @@ body,html {
     left: 0;
  }
 
+ .nav-item {
+     font-weight: 600;
+     font-size: large;
+ }
+#landingImage {
+    padding-top: 1%;
+}
 
 
  .card {
