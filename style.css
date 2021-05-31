@@ -1,5 +1,6 @@
 body,html {
     height: 100%;
+    
   }
 
  
@@ -55,5 +56,6 @@ h1 {
 }
 
 p {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+    padding-right: 3%;
 }
