@@ -18,7 +18,7 @@ body,html {
  }
 
  .navbar-text {
-     padding-left: 69%;
+     padding-left: 55%;
      font-family:'Lato', sans-serif ;
  }
 
@@ -58,4 +58,8 @@ h1 {
 p {
     font-family: 'Lato', sans-serif;
     padding-right: 3%;
+}
+
+.b-example-divider {
+    padding-top: 10%;
 }
