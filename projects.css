@@ -1,0 +1,75 @@
+body,html {
+    height: 100%;
+    
+  }
+
+ 
+ .navbar {
+    padding-left: 15px;
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+    left: 0;
+    color: white;
+    top: 0;
+ }
+
+ .nav-item {
+     font-family:'Lato', sans-serif ;
+ }
+
+ .navbar-text {
+     padding-left: 55%;
+     font-family:'Lato', sans-serif ;
+ }
+
+
+#landingImage {
+    padding-top: 1%;
+}
+ .card {
+     width: 30vh;
+     height: 30vh;
+     background-color:#5271FF ;
+     opacity: .75;
+     
+ }
+
+ .card-title  {
+     color: white;
+     font-size: 15px;
+     font-weight: 700;
+ }
+
+  
+
+ .card-img-top {
+    width: auto;
+    height: 10vw;
+    object-fit: contain;
+    
+        
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 3%;
+    font-size: 44px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    padding-right: 3%;
+}
+
+.b-example-divider {
+    padding-top: 10%;
+}
+
+#services {
+    padding-top: 10%;
+}
+
+img {
+    padding: 2%;
+}

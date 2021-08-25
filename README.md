@@ -11,3 +11,5 @@ Features Bootstrap, Google Fonts, Formspree, Google Analytics tag and visuals ma
 
 ### FUTURE DEVELOPMENT
 Flip card annimations and social media integration
+
+## MADE BY KRIS
